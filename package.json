@@ -1,6 +1,6 @@
 {
   "name": "test-shellsession-info-string",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "test rendering of Markdown fenced blocks with \"shellsession\" info string on newww",
   "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
   "repository": "kemitchell/test-shellsession-info-string",
